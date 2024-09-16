@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "https://library-management-syste-f2a85.firebaseio.com",
+            "request": "launch",
+            "url": "https://library-management-syste-f2a85.firebaseio.com"
+        }
+    ]
+}

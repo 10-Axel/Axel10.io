@@ -1,0 +1,69 @@
+body{
+    text-align: center;
+    background: url('../../Gemini_Generated_Image_44zv5g44zv5g44zv.jpeg') aquamarine;
+    object-fit: contain;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+
+}
+
+.myImage{
+  position: fixed;
+  top: 2%;
+  left: 1%;
+  width: 80px;
+  height: 80px;
+}
+
+
+
+
+.main_user_block{
+    max-width: 200px;
+    background: white;
+    padding: 10px;
+    border-style: groove;
+    color: #cfcfd1;
+    width: 10%;
+    height: 20%;
+    text-align: center;
+    display: inline-block;
+    margin:auto;
+    border-radius: 5px;
+}
+#portal{
+  font-size:300%;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+#user{
+  position: fixed;
+  top: 44%;
+  left: 88%;
+
+}
+#admin{
+  position: fixed;
+  top: 18%;
+  left: 88%;
+}
+
+.login_button{
+  background-color: #596404; /* white */
+  border: none;
+  border-radius: 5px;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  padding: 7px;
+}
+
+.login_button:hover{
+  background-color: #5c6705de; /* white */
+  /* color: black; */
+}
